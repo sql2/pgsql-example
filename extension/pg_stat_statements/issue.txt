@@ -1,0 +1,2 @@
+Some customer workloads have seen up to a 50 percent performance improvement when pg_stat_statements is disabled. The tradeoff you make when you disable pg_stat_statements is the inability to troubleshoot performance issues.
+- https://docs.microsoft.com/ko-kr/azure/postgresql/howto-optimize-query-stats-collection?fbclid=IwAR07v1NyAFgCZliSzbB_-ybYfYf55VWK-dytu3R8zvXOrP4Owj_1WsQ7aSo
