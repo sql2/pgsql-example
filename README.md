@@ -1,0 +1,2 @@
+# pgsql-example
+PostgreSQL exercise
